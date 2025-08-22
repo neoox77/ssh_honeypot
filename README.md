@@ -5,10 +5,10 @@ A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, 
 # Install
 
 **1) Clone repository.**
-`git clone https://github.com/collinsmc23/ssh_honeypy.git`
+`git clone https://github.com/neoox77/ssh_honeypot.git`
 
 **2) Permissions.**
-Move into `ssh_honeypy` folder.
+Move into `ssh_honeypot` folder.
 
 Ensure `main.py` has proper permisions. (`chmod 755 honeypy.py`)
 
