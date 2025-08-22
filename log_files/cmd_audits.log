@@ -1,0 +1,12 @@
+Client 192.168.224.130 attempted connection with username: root, password: admin
+Client 192.168.224.130 attempted connection with username: root, password: kali
+Client 192.168.224.130 attempted connection with username: root, password: user
+Client 192.168.224.130 attempted connection with username: root, password: test
+Client 192.168.224.130 attempted connection with username: root, password: ec2-user
+Client 192.168.224.130 attempted connection with username: root, password: guest
+Client 192.168.224.130 attempted connection with username: root, password: pi
+Client 192.168.224.130 attempted connection with username: root, password: mysql
+Client 192.168.224.130 attempted connection with username: root, password: oracle
+Client 192.168.224.130 attempted connection with username: root, password: postgres
+Client 192.168.224.130 attempted connection with username: admin, password: root
+Client 192.168.224.130 attempted connection with username: admin, password: admin
